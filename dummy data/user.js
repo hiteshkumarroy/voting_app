@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ravi Kumar",
+        "name": "Hitesh Kumar",
         "age": 30,
         "mobile": "9876543210",
         "email": "ravi@example.com",
